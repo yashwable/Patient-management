@@ -1,0 +1,14 @@
+### Create patinent request
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "monny ka",
+  "email": "mhhy4@ka.com",
+  "address": "abc, Main bill",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate": "2024-11-28"
+
+}
+
+###
