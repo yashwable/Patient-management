@@ -34,7 +34,7 @@ public class AuthService {
 
     public boolean validateToken(String token){
         try {
-            jwtUtil.ValidateToken(token);
+            jwtUtil.validateToken(token);
             return true;
         } catch (JwtException e){
             return false;
