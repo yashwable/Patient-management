@@ -1,5 +1,5 @@
 ### Create patinent request
-PUT http://localhost:4004/api/patients/74c202b2-fb99-4d41-b845-9bbe67ef6c63
+PUT http://localhost:4004/api/patients/9780f5d4-53f4-4520-adbf-8ed0d2165325
 Content-Type: application/json
 Authorization: Bearer {{token}}
 

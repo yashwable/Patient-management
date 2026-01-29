@@ -4,11 +4,11 @@ Content-Type: application/json
 Authorization: Bearer {{token}}
 
 {
-  "name": "abc xyz",
-  "email": "abc@xyz.com",
-  "address": "abc, Main bill",
-  "dateOfBirth": "1995-09-09",
-  "registeredDate": "2024-11-28"
+  "name": "test User",
+  "email": "newUser@email.com",
+  "address": "Hill road, Mumbai, Maharashtra",
+  "dateOfBirth": "2002-02-02",
+  "registeredDate": "2026-02-02"
 
 }
 
